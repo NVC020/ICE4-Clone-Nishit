@@ -3,6 +3,7 @@
  */
 
 package ca.sheridan.nishit.projectnishit;
+// Feature initial setup completed
 
 /**
  *
